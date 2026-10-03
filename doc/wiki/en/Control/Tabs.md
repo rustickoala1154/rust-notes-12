@@ -121,3 +121,4 @@ Name | Description | Type | Default Value |
 **Text** | Display Text | string ||
 **Visible** | Is it displayed | bool | true |
 **ReadOnly** | Read only | bool | false |  
+

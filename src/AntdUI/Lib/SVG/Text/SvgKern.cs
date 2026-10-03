@@ -49,3 +49,4 @@ namespace AntdUI.Svg
         public override string ClassName { get => "hkern"; }
     }
 }
+// 177dd6

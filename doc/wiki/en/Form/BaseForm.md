@@ -33,3 +33,4 @@ Name | Description | Return Value | Parameters |
 **DraggableMouseDown** | Drag window | void ||
 **ResizableMouseDown** | Adjust window size (mouse press) | bool ||
 **ResizableMouseMove** | Adjust window size (mouse movement) | bool || 
+

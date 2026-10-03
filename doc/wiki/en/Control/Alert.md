@@ -29,3 +29,4 @@ Name | Description | Type | Default Value |
 **LoopSpeed** | Text carousel speed | int | 10 |
 **LoopInfinite** | Endless carousel text | bool | true |
 **LoopPauseOnMouseEnter** | Pause carousel on mouse enter | bool | true |  
+

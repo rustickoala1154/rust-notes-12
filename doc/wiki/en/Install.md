@@ -32,3 +32,4 @@ Unzip, launch `AntdUI.sln` and set `examples/Demo` as startup project. `F5` run.
 Modify `AntdUI.csproj` `TargetFrameworks` to retain only your project's framework version and regenerate.
 
 > Still Not Displaying? Restart VS to refresh and recompile repeatedly to ensure latest DLLs are used.  
+

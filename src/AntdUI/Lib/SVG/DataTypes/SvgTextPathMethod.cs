@@ -15,3 +15,4 @@ namespace AntdUI.Svg
         Stretch
     }
 }
+// 72c9dd

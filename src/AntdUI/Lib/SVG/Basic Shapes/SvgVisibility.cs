@@ -12,3 +12,4 @@ namespace AntdUI.Svg
         Inherit
     }
 }
+// 06cae7

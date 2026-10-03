@@ -53,3 +53,4 @@ Name | Description | Type | Default Value |
 **Text** | Text | string | "" |
 🌏 **LocalizationText** | International text | string`?` | `null` |
 **Buttons** | Button collection | CollapseGroupButtonCollection | - |  
+

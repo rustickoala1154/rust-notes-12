@@ -43,3 +43,4 @@ Name | Description | Type | Default Value |
 **HoverImage** | Hover icon | Image`?` | `null` |
 **HoverImageSvg** | Hover icon SVG | string`?` | `null` |
 **HoverImageRatio** | Hover icon ratio | float | 0.4F |   
+

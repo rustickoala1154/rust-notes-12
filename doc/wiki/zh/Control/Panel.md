@@ -39,3 +39,4 @@ Panel 面板 👚
 **padding** | 内边距 | Padding | 0, 0, 0, 0 | `已过时，使用 InnerPadding` |
 **AutoScroll** | 是否显示滚动条 | bool | false |
 **AutoContainerBgTransparent** | 内部容器背景透明 | bool | false | 
+

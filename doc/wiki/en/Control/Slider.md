@@ -49,3 +49,4 @@ Name | Description | Type | Default Value |
 **Fore** | Text color | Color`?` | `null` |
 **Text** | Text | string`?` | `null` |
 **Tag** | User defined data | object`?` | `null` |   
+

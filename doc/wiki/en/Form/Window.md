@@ -38,3 +38,4 @@ Name | Description | Return Value | Parameters |
 **AutoDpi** | Handle DPI | void | dpi: DPI value, control: Control |
 **Theme** | Get theme configuration | ThemeConfig ||
 **ThemeClear** | Clear theme configuration | void ||   
+

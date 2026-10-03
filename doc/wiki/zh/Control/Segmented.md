@@ -76,3 +76,4 @@ Segmented 分段控制器 👚
 **BadgeOffsetX** | 徽标偏移X | float | 0 |
 **BadgeOffsetY** | 徽标偏移Y | float | 0 |
 **BadgeBack** | 徽标背景颜色 | Color`?` | `null` |  
+

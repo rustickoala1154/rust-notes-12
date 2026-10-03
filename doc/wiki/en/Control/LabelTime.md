@@ -15,3 +15,4 @@ Name | Description | Type | Default Value |
 **ShowTime** | Display seconds | bool | true |
 **AutoWidth** | Auto Width | bool | false |
 **DragMove** | Can drag position | bool | true | 
+

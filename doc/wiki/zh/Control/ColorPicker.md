@@ -65,3 +65,4 @@ ColorPicker 颜色选择器 👚
 :--|:--|:--|:--|
 **ValueChanged** | Value 属性值更改时发生 | void | Color value `颜色的值` |
 **ValueFormatChanged** | Value格式化时发生 | string | Color value `颜色的值` | 
+

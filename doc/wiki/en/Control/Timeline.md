@@ -45,3 +45,4 @@ Name | Description | Type | Default Value |
 **Type** | Color Type | [TTypeMini](Enum.md#ttypemini) | Primary |
 **Fill** | Fill color | Color`?` | `null` |
 **Tag** | User defined data | object`?` | `null` |  
+

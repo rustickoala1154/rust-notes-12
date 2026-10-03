@@ -30,3 +30,4 @@ Name | Description | Return Value | Parameters |
 :--|:--|:--|:--|
 **ValueChanged** | Occurred when the value of the Value property is changed | void | TimeSpan value |
 **ExpandDropChanged** | Occurred when the value of the ExpandDrop property is changed | void | bool value | 
+

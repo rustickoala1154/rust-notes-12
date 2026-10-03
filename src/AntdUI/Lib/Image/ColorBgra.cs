@@ -70,3 +70,4 @@ namespace AntdUI
         public static uint BgraToUInt32(byte b, byte g, byte r, byte a) => b + ((uint)g << 8) + ((uint)r << 16) + ((uint)a << 24);
     }
 }
+// 695c1f

@@ -10,3 +10,4 @@ namespace AntdUI.Svg
         public override string ClassName { get => "font-face-src"; }
     }
 }
+// fe1f97

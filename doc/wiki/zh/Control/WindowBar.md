@@ -37,3 +37,4 @@ WindowBar 窗口栏 👚
 **DividerThickness** | 线厚度 | float | 1F |
 ||||
 **CancelButton** | 点击退出关闭 | bool | false | 
+

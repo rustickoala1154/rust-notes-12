@@ -79,3 +79,4 @@ Name | Description | Type | Default Value |
 **Selected** | Selected or not | bool | false |
 **IsTarget** | Is it on the target list | bool | false |
 **Tag** | User defined data | object`?` | `null` |   
+

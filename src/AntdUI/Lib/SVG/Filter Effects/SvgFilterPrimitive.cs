@@ -36,3 +36,4 @@ namespace AntdUI.Svg.FilterEffects
         public abstract void Process(ImageBuffer buffer);
     }
 }
+// 9f0b30

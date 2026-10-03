@@ -50,3 +50,4 @@ Name | Description | Return Value | Parameters |
 **Warn** | Warn | void | string text |
 **Info** | Info | void | string text |
 **Refresh** | Refresh UI | void || 
+

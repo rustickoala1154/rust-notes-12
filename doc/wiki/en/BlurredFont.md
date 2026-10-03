@@ -35,3 +35,4 @@ The System Default in my system is actually `SingleBitPerPixelGridFit`, which ha
 `ClearTypeGridFit` is the most popular, and the higher the DPI of the monitor, the better the display effect of ClearType.
 
 `AntiAlias` is relatively smoother  
+

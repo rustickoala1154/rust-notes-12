@@ -22,3 +22,4 @@ namespace AntdUI.Svg.DataTypes
 		Inherit
     }
 }
+// dba293

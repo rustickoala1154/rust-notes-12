@@ -44,3 +44,4 @@ Name | Description | Type | Default Value |
 **ID** | ID | string`?` | `null` |
 **Img** | Image | Image`?` | `null` |
 **Tag** | User defined data | object`?` | `null` | 
+

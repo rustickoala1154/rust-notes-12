@@ -57,3 +57,4 @@ hyperlinkLabel1.HoverStyle.Underline = true;
 // Disable auto navigation
 hyperlinkLabel1.LinkAutoNavigation = false;
 ```  
+

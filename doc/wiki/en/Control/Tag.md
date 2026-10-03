@@ -44,3 +44,4 @@ Name | Description | Type | Default Value |
 Name | Description | Return Value | Parameters |
 :--|:--|:--|:--|
 **CloseChanged** | Occurred during Close | bool ||  
+

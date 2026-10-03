@@ -26,3 +26,4 @@ Name | Description | Type | Default Value |
 **FillDanger** | Dangerous battery color | Color | 255, 77, 79 |
 **ValueWarn** | Warning battery threshold | int | 30 |
 **ValueDanger** | Dangerous battery threshold | int | 20 | 
+

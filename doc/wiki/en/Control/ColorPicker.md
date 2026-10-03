@@ -64,3 +64,4 @@ Name | Description | Return Value | Parameters |
 :--|:--|:--|:--|
 **ValueChanged** | Occurred when the value of the Value property is changed | void | Color value |
 **ValueFormatChanged** | Occurred when Value is formatted | string | Color value |  
+

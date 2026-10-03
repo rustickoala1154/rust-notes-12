@@ -34,3 +34,4 @@ Name | Description | Type | Default Value |
 **DividerThickness** | Line thickness | float | 1F |
 ||||
 **CancelButton** | Click to exit and close | bool | false |  
+

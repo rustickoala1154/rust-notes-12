@@ -37,3 +37,4 @@ Visual Studio 2022 安装程序中单个组件中没有 **.NET Framework4.0** �
 ![6](Img/InstallOldVersionFramework_6.png)
 
 然后重启 Visual Studio，就能看到4.0和4.5了  
+

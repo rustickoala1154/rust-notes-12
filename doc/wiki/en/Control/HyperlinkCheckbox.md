@@ -63,3 +63,4 @@ hyperlinkCheckbox1.LinkClicked += (sender, e) =>
 	MessageBox.Show($"Clicked link: {e.Text}\nURL: {e.Href}");
 };
 ``` 
+

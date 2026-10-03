@@ -42,3 +42,4 @@ Name | Description | Return Value | Parameters |
 Name | Description | Return Value | Parameters |
 :--|:--|:--|:--|
 **SplitPanelStateChanged** | Occurred when the value of the SplitPanelState property is changed | void | bool value | 
+

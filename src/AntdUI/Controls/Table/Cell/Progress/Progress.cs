@@ -159,3 +159,4 @@ namespace AntdUI
         public override string ToString() => (_value * 100F) + "%";
     }
 }
+// 5c608d

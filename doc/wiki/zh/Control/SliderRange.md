@@ -20,3 +20,4 @@ SliderRange 滑动范围输入条 👚
 名称 | 描述 | 返回值 | 参数 |
 :--|:--|:--|:--|
 **Value2Changed** | Value 属性值更改时发生 | void | int value2 `当前值` | 
+

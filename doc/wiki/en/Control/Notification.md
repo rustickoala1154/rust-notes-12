@@ -57,3 +57,4 @@ Name | Description | Type | Default Value |
 **Link** | Whether to display label | bool | true |
 **Call** | Click on callback | Func<bool>`?` | `null` |
 **Tag** | User defined data | object`?` | `null` |   
+

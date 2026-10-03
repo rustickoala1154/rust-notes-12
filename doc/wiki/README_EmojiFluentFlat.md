@@ -51,3 +51,4 @@ AntdUI.SvgDb.Emoji = AntdUI.FluentFlat.Emoji;
 2. After setting, all AntdUI controls will automatically use the new Emoji resources
 3. You can switch between different Emoji resource libraries at any time as needed
 4. Emoji resources are large and will increase the memory usage of the application, it is recommended to choose whether to use it according to actual needs   
+

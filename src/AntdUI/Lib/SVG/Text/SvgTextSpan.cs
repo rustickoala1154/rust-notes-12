@@ -10,3 +10,4 @@ namespace AntdUI.Svg
         public override string ClassName { get => "tspan"; }
     }
 }
+// 61c40d

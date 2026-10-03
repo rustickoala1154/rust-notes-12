@@ -161,3 +161,4 @@ AntdUI.Config.SetCorrectionTextRendering("Microsoft YaHei UI", "宋体"); //需�
 ```
 
 ![CorrectionTextRendering](Img/CorrectionTextRendering.jpg)  
+

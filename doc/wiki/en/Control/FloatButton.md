@@ -57,3 +57,4 @@ Name | Description | Type | Default Value |
 **BadgeBorderColor** | Badge border color | Color`?` | `null` |
 **BadgeBorderWidth** | Badge border width | float`?` | `null` |
 **Tag** | User defined data | object`?` | `null` |   
+

@@ -37,3 +37,5 @@ namespace Demo.Controls
         private void input1_TextChanged(object sender, EventArgs e) => gridPanel1.Span = input1.Text.Trim();
     }
 }
+
+// 982e3b

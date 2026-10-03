@@ -37,3 +37,4 @@ Copy the `v4.5` folder to **`C:\Program Files (x86)\Reference Assemblies\Microso
 ![6](Img/InstallOldVersionFramework_6.png)
 
 Then restart Visual Studio and you will be able to see 4.0 and 4.5  
+

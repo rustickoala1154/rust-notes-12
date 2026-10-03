@@ -69,3 +69,5 @@ namespace Demo.Controls
         private System.Windows.Forms.Panel panel_main;
     }
 }
+
+// e5c075

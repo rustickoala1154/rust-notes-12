@@ -55,3 +55,4 @@ PageHeader 页头 👚
 **DividerColor** | 线颜色 | Color`?` | `null` |
 **DividerThickness** | 线厚度 | float | 1F |
 **DividerMargin** | 线边距 | int | 0 |  
+

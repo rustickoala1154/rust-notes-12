@@ -50,3 +50,4 @@ Message 全局提示
 **Warn** | 警告 | void | string text |
 **Info** | 信息 | void | string text |
 **Refresh** | 刷新UI | void || 
+

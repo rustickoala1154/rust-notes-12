@@ -30,3 +30,4 @@ Alert 警告提示 👚
 **LoopSpeed** | 文本轮播速率 | int | 10 |
 **LoopInfinite** | 轮播文本无尽 | bool | true |
 **LoopPauseOnMouseEnter** | 鼠标移入时暂停轮播 | bool | true |   
+

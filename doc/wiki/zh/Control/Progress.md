@@ -53,3 +53,4 @@ Progress 进度条 👚
 名称 | 描述 | 返回值 | 参数 |
 :--|:--|:--|:--|
 **ValueFormatChanged** | Value格式化时发生 | string | float value `进度` |   
+

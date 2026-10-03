@@ -20,3 +20,4 @@ Name | Description | Type | Default Value |
 **ColorSplit** | Line color | Color`?` | `null` |
 **Text** | Text | string`?` | `null` |
 🌏 **LocalizationText** | International text | string`?` | `null` |   
+

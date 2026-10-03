@@ -59,3 +59,4 @@ FloatButton 悬浮按钮
 **BadgeBorderColor** | 徽标边框颜色 | Color`?` | `null` |
 **BadgeBorderWidth** | 徽标边框宽度 | float`?` | `null` |
 **Tag** | 用户定义数据 | object`?` | `null` | 
+

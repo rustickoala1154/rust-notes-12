@@ -36,3 +36,4 @@ namespace AntdUI.Svg
         Square
     }
 }
+// 516b74

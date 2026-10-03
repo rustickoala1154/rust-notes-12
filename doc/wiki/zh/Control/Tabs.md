@@ -122,3 +122,4 @@ Tabs 标签页 👚
 **Text** | 显示文本 | string ||
 **Visible** | 是否显示 | bool | true |
 **ReadOnly** | 只读 | bool | false |   
+

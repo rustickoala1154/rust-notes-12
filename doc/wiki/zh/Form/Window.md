@@ -38,3 +38,4 @@
 **AutoDpi** | 处理DPI | void | dpi: DPI值, control: 控件 |
 **Theme** | 获取主题配置 | ThemeConfig ||
 **ThemeClear** | 清除主题配置 | void || 
+

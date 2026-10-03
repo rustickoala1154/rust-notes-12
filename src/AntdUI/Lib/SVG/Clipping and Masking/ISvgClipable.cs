@@ -32,3 +32,4 @@ namespace AntdUI.Svg
         void ResetClip(ISvgRenderer renderer);
     }
 }
+// 4d5659

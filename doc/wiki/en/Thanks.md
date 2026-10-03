@@ -30,3 +30,4 @@ The following projects use the MIT License:
 #### Projects Using Other Licenses
 
 - **SVG.NET** - Uses MS-PL License (Microsoft Public License)  
+

@@ -87,3 +87,4 @@ Name | Description | Type | Default Value |
 **BadgeOffsetX** | Badge offset X | float | 0 |
 **BadgeOffsetY** | Badge offset Y | float | 0 |
 **BadgeBack** | Badge background color | Color`?` | `null` | 
+

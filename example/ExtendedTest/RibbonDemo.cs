@@ -86,3 +86,5 @@ namespace ExtendedTest
         void Append(string s) => form.Append(s);
     }
 }
+
+// dce0d1

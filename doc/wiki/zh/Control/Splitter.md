@@ -42,3 +42,4 @@ Splitter 分隔面板 👚
 名称 | 描述 | 返回值 | 参数 |
 :--|:--|:--|:--|
 **SplitPanelStateChanged** | SplitPanelState 属性值更改时发生 | void | bool value `当前值` |  
+

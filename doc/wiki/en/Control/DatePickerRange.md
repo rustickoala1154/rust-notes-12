@@ -40,3 +40,4 @@ Name | Description | Return Value | Parameters |
 **ValueChanged** | Occurred when the value of the Value property is changed | void | DateTime[]? value |
 **PresetsClickChanged** | Occurrence upon preset click | void | object? value `Click on item` |
 **ExpandDropChanged** | Occurs when the dropdown expand property changes | void | bool value `Whether to expand` |  
+

@@ -10,3 +10,4 @@ namespace AntdUI.Svg.FilterEffects
         SvgFilter Filter { get; set; }
     }
 }
+// 09970b

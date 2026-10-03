@@ -89,3 +89,4 @@ Name | Description | Type | Default Value |
 **BadgeFore** | Badge foreground color | Color`?` | `null` |
 **BadgeBack** | Badge background color | Color`?` | `null` |
 **BadgeBorderColor** | Badge border color | Color`?` | `null` |  
+

@@ -49,3 +49,4 @@ UploadDragger 拖拽上传 👚
 名称 | 描述 | 返回值 | 参数 |
 :--|:--|:--|:--|
 **DragChanged** | 文件拖拽后时发生 | void | string[] files `文件列表` |  
+

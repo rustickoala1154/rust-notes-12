@@ -16,3 +16,4 @@ namespace AntdUI.Svg
         RectangleF Bounds { get; }
     }
 }
+// 4942e0

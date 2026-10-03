@@ -1367,3 +1367,4 @@ namespace AntdUI
         public static bool IsItemVisibleExpand(this Rectangle rect, int sy, Rectangle item_rect, bool expand, int expandHeight) => (item_rect.Y < sy + rect.Height) && ((item_rect.Bottom + (expand ? expandHeight : 0)) > sy);
     }
 }
+// d97ac5

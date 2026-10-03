@@ -47,3 +47,4 @@ Name | Use |
 #### The color of the loaded SVG is not quite right
 
 Note the removal of fill attributes in SVG format  
+

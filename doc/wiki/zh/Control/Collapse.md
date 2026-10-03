@@ -54,3 +54,4 @@ Collapse 折叠面板 👚
 **Text** | 文本 | string | "" |
 🌏 **LocalizationText** | 国际化文本 | string`?` | `null` |
 **Buttons** | 按钮集合 | CollapseGroupButtonCollection | - |   
+

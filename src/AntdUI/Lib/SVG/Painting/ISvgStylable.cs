@@ -27,3 +27,4 @@ namespace AntdUI.Svg
         GraphicsPath Path(ISvgRenderer renderer);
     }
 }
+// e16bba

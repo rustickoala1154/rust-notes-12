@@ -197,3 +197,4 @@ Precautions before use：
 > for (int i = 0; i < 10; i++) list.Add(new MyClass(i));
 > table.Binding(list);
 > ```   
+

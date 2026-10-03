@@ -78,3 +78,4 @@ Name | Description | Type | Default Value |
 #### ColumnSort
 
 > Drag and drop handle column. Inherited from [Column](#column) 
+

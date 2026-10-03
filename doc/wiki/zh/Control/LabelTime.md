@@ -16,3 +16,4 @@ LabelTime 时间文本 👚
 **ShowTime** | 是否显示秒 | bool | true |
 **AutoWidth** | 自动宽度 | bool | false |
 **DragMove** | 是否可以拖动位置 | bool | true |  
+

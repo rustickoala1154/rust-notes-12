@@ -32,3 +32,4 @@ Name | Description | Return Value | Parameters |
 :--|:--|:--|:--|
 **ValueChanged** | Occurred when the value of the Value property is changed | void | decimal value |
 **ValueFormatter** | Format the numeric value for display | void | InputNumberEventArgs e |   
+

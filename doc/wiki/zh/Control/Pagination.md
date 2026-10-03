@@ -45,3 +45,4 @@ Pagination 分页 👚
 :--|:--|:--|:--|
 **ValueChanged** | Value 属性值更改时发生 | void | int current `当前页数`, int total `数据总数`, int pageSize `每页条数`, int pageTotal `总页数` |
 **ShowTotalChanged** | 用于显示数据总量 | string `返回内容用于显示文本` | int current `当前页数`, int total `数据总数`, int pageSize `每页条数`, int pageTotal `总页数` |  
+

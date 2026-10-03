@@ -29,3 +29,4 @@ namespace AntdUI.Svg
         void DrawImage(Image image, RectangleF destRect, RectangleF srcRect, GraphicsUnit graphicsUnit, float opacity);
     }
 }
+// d769c6

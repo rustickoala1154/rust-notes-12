@@ -55,3 +55,4 @@ Name | Description | Type | Default Value |
 **DividerColor** | Line color | Color`?` | `null` |
 **DividerThickness** | Line thickness | float | 1F |
 **DividerMargin** | Line and margin at both ends | int | 0 |   
+

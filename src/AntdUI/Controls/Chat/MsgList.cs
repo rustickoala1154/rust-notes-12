@@ -754,3 +754,4 @@ namespace AntdUI.Chat
         internal Rectangle rect_icon { get; set; }
     }
 }
+// 0b0119

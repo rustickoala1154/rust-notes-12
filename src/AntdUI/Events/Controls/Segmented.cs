@@ -18,3 +18,4 @@ namespace AntdUI
     /// </summary>
     public delegate void SegmentedItemEventHandler(object sender, SegmentedItemEventArgs e);
 }
+// 279a0e

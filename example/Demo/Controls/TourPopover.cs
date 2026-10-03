@@ -37,3 +37,4 @@ namespace Demo.Controls
         private void btn_next_Click(object sender, EventArgs e) => popover.Tour.Next();
     }
 }
+// 142dd9

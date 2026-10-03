@@ -152,3 +152,4 @@ namespace Demo.Controls
         private System.Windows.Forms.Panel panel2;
     }
 }
+// 6afc96

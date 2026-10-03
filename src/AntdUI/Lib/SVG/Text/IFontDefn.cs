@@ -20,3 +20,4 @@ namespace AntdUI.Svg
         SizeF MeasureString(ISvgRenderer renderer, string text);
     }
 }
+// ae748a

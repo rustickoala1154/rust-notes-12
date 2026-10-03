@@ -21,3 +21,4 @@ namespace AntdUI.Svg
         Square
     }
 }
+// 289eec

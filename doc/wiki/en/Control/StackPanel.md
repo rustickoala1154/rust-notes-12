@@ -16,3 +16,4 @@ Name | Description | Type | Default Value |
 **Gap** | Gap | int | 0 |
 **PauseLayout** | Pause Layout | bool | false |
 **AutoContainerBgTransparent** | Inner container background transparent | bool | false |  
+

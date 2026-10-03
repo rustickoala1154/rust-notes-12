@@ -54,3 +54,4 @@ Tooltip 文字提示 👚
 **ArrowSize** | 箭头大小 | int | 8 |
 **Offset** | 偏移量 | Rectangle / RectangleF | `null` |
 **CustomWidth** | 设定宽度 | int`?` | `null` |  
+

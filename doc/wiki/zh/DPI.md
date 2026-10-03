@@ -102,3 +102,4 @@ AntdUI.Config.DpiMode = DpiMode.Compatible;
    ```csharp
    AntdUI.Config.SetCorrectionTextRendering("Microsoft YaHei UI", "宋体");
    ```   
+

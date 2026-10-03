@@ -58,3 +58,4 @@ Name | Description | Type | Default Value |
 **BackColor** | Timeline background color | Color`?` | `null` |
 **ForeColor** | Timeline foreground color | Color`?` | `null` |
 **Tag** | User defined data | object`?` | `null` | 
+

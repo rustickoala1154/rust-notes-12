@@ -44,3 +44,4 @@ Name | Description | Type | Default Value |
 **ShadowOpacity** | Shadow Transparency | float | 0.3F |
 **ShadowOffsetX** | Shadow offset X | int | 0 |
 **ShadowOffsetY** | Shadow offset Y | int | 0 |   
+

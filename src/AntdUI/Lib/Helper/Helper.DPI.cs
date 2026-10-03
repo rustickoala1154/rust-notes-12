@@ -239,3 +239,4 @@ namespace AntdUI
         public static float GetDpi(float dpiX, float dpiY) => Math.Max(dpiX, dpiY) / 96F;
     }
 }
+// d77bf6

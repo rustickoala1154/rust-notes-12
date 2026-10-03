@@ -103,3 +103,4 @@ imagePreview1.Image.Add(new ImagePreviewItem().SetImage((index, item, progress) 
 var customBtn = new ImagePreviewButton().SetName("custom").SetIcon("<svg>...</svg>");
 imagePreview1.CustomButton.Add(customBtn);
 ``` 
+
