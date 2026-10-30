@@ -79,3 +79,4 @@ Name | Description | Type | Default Value |
 
 > Drag and drop handle column. Inherited from [Column](#column) 
 
+

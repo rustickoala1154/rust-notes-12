@@ -45,3 +45,4 @@ Name | Description | Return Value | Parameters |
 :--|:--|:--|:--|
 **CloseChanged** | Occurred during Close | bool ||  
 
+

@@ -29,3 +29,5 @@ namespace AntdUI.Svg
     }
 }
 // e0d81f
+
+// 988e7c

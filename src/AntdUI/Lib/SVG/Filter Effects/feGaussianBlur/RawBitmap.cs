@@ -72,3 +72,5 @@ namespace AntdUI.Svg.FilterEffects
     }
 }
 // 1df1f6
+
+// 50c4e3

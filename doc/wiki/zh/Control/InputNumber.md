@@ -34,3 +34,4 @@ InputNumber 数字输入框 👚
 **ValueChanged** | Value 属性值更改时发生 | void | decimal value `当前值` |
 **ValueFormatter** | 格式化数值以供显示 | void | InputNumberEventArgs e | 
 
+

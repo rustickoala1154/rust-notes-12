@@ -26,3 +26,4 @@ Badge 徽标数 👚
 **DotRatio** | 点比例 | float | 0.4F |
 **Gap** | 间隔 | int | 0 |   
 
+

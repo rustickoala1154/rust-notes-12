@@ -27,3 +27,5 @@ namespace AntdUI.Svg.Pathing
     }
 }
 // 554889
+
+// 7242d2

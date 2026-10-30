@@ -34,3 +34,4 @@ Name | Description | Return Value | Parameters |
 **ItemClick** | Occurs when an item is clicked | void | object? value `Clicked item` |
 **DrawItem** | Triggered before child item external rendering | bool `Whether rendering was handled` | DrawItemEventArgs e `Event parameters, including canvas, rectangle, item information, etc.` |  
 
+

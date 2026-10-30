@@ -31,3 +31,5 @@ namespace AntdUI.Svg.FilterEffects
     }
 }
 // d6a9a0
+
+// 228a06

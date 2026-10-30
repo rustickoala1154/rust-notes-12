@@ -24,3 +24,5 @@ namespace AntdUI.Svg
     }
 }
 // be0e1a
+
+// 6e4006

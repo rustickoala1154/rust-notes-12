@@ -28,3 +28,4 @@ Battery 电量 👚
 **ValueWarn** | 警告电量阈值 | int | 30 |
 **ValueDanger** | 危险电量阈值 | int | 20 |  
 
+

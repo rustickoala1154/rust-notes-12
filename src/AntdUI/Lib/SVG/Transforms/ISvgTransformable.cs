@@ -29,3 +29,5 @@ namespace AntdUI.Svg
     }
 }
 // e796e3
+
+// 260ff1

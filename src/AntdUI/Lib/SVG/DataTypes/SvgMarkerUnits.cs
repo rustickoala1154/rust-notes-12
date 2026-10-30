@@ -16,3 +16,5 @@ namespace AntdUI.Svg.DataTypes
     }
 }
 // 881750
+
+// fe8e6b

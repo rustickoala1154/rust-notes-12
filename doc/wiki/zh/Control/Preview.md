@@ -64,3 +64,4 @@ Preview.open(new Preview.Config(this, list, (index, item) => GetImage(item)));
 **Data** | 元数据 | object`?` | |
 **Tag** | Btn的Tag | object`?` | |   
 
+

@@ -40,3 +40,4 @@ Panel 面板 👚
 **AutoScroll** | 是否显示滚动条 | bool | false |
 **AutoContainerBgTransparent** | 内部容器背景透明 | bool | false | 
 
+

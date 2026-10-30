@@ -30,3 +30,4 @@ Name | Description | Type | Default Value |
 **LoopInfinite** | Endless carousel text | bool | true |
 **LoopPauseOnMouseEnter** | Pause carousel on mouse enter | bool | true |  
 
+

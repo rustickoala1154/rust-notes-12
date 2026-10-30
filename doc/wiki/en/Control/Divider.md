@@ -21,3 +21,4 @@ Name | Description | Type | Default Value |
 **Text** | Text | string`?` | `null` |
 🌏 **LocalizationText** | International text | string`?` | `null` |   
 
+

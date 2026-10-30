@@ -39,3 +39,4 @@ Name | Description | Return Value | Parameters |
 **NoFull** | Exit full screen | void ||
 **RefreshDWM** | Refresh DWM area | void ||  
 
+

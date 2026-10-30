@@ -23,3 +23,5 @@ namespace AntdUI.Svg.DataTypes
     }
 }
 // dba293
+
+// 528def

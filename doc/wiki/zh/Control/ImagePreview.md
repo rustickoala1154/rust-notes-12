@@ -105,3 +105,4 @@ var customBtn = new ImagePreviewButton().SetName("custom").SetIcon("<svg>...</sv
 imagePreview1.CustomButton.Add(customBtn);
 ```  
 
+

@@ -45,3 +45,4 @@ Avatar 头像 👚
 **HoverImageSvg** | 悬浮图标SVG | string`?` | `null` |
 **HoverImageRatio** | 悬浮图标比例 | float | 0.4F | 
 
+

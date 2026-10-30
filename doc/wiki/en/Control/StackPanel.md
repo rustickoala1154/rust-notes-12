@@ -17,3 +17,4 @@ Name | Description | Type | Default Value |
 **PauseLayout** | Pause Layout | bool | false |
 **AutoContainerBgTransparent** | Inner container background transparent | bool | false |  
 
+

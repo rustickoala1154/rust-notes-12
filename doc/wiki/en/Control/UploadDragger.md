@@ -49,3 +49,4 @@ Name | Description | Return Value | Parameters |
 :--|:--|:--|:--|
 **DragChanged** | Occurrence when dragging files | void | string[] files `file list` | 
 
+

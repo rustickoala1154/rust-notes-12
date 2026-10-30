@@ -54,3 +54,4 @@ Name | Description | Type | Default Value |
 **Offset** | Offset | Rectangle / RectangleF | `null` |
 **CustomWidth** | Custom Width | int`?` | `null` |  
 
+

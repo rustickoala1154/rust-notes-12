@@ -27,3 +27,5 @@ namespace AntdUI.Svg.Pathing
     }
 }
 // dff690
+
+// ed45e2

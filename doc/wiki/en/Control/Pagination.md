@@ -48,3 +48,4 @@ Name | Description | Return Value | Parameters |
 **ValueChanged** | Occurred when the value of the Value property is changed | void | int current, int total, int pageSize, int pageTotal |
 **ShowTotalChanged** | Used to display the total amount of data | string `Return content for displaying text` | int current, int total, int pageSize, int pageTotal | 
 
+

@@ -60,3 +60,5 @@ namespace AntdUI.Svg.Transforms
     }
 }
 // f675de
+
+// 611cde

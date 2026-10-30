@@ -17,3 +17,4 @@ LabelTime 时间文本 👚
 **AutoWidth** | 自动宽度 | bool | false |
 **DragMove** | 是否可以拖动位置 | bool | true |  
 
+

@@ -39,3 +39,4 @@ Name | Description | Return Value | Parameters |
 **Theme** | Get theme configuration | ThemeConfig ||
 **ThemeClear** | Clear theme configuration | void ||   
 
+

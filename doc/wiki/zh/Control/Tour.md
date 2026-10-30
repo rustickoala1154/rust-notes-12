@@ -118,3 +118,4 @@ var config = new Tour.Config(this, (result) => {
 Tour.open(config);
 ``` 
 
+

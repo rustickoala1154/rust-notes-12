@@ -18,3 +18,4 @@ StackPanel 堆栈布局 👚
 **PauseLayout** | 暂停布局 | bool | false |
 **AutoContainerBgTransparent** | 内部容器背景透明 | bool | false |   
 
+

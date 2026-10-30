@@ -43,3 +43,5 @@ namespace AntdUI.Svg.DataTypes
     }
 }
 // 1f99f3
+
+// d2b150

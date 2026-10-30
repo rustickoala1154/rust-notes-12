@@ -86,3 +86,4 @@ AntdUI.Spin.open(panel1, config => {
 
 ![SpinRun](SpinRun.png) 
 
+

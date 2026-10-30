@@ -56,3 +56,4 @@ Name | Description | Type | Default Value |
 **DividerThickness** | Line thickness | float | 1F |
 **DividerMargin** | Line and margin at both ends | int | 0 |   
 
+

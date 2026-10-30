@@ -182,3 +182,4 @@ var infoPalette = AntdUI.Style.Db.Info;       // 信息色彩体系
 | **rgba** | 转颜色 | Color | int r, int g, int b, float alpha = 1 `透明度` |
 | **rgba** | 转颜色 | Color | Color color, float alpha = 1 `透明度` |   
 
+

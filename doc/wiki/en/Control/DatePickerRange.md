@@ -41,3 +41,4 @@ Name | Description | Return Value | Parameters |
 **PresetsClickChanged** | Occurrence upon preset click | void | object? value `Click on item` |
 **ExpandDropChanged** | Occurs when the dropdown expand property changes | void | bool value `Whether to expand` |  
 
+

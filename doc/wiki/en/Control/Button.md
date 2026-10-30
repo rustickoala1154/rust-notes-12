@@ -103,3 +103,4 @@ Name | Description | Type | Default Value |
 - Rounded button `Shape=TShape.Round` right`ShowArrow=true` `IsLink=true`
 ![ButtonStyleRound](ButtonStyleRound.png)  
 
+

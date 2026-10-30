@@ -34,3 +34,4 @@ Name | Description | Return Value | Parameters |
 :--|:--|:--|:--|
 **CheckedChanged** | Occurred when the value of the Checked attribute is changed | void | bool value `Checked state` |  
 
+

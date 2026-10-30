@@ -182,3 +182,4 @@ var infoPalette = AntdUI.Style.Db.Info;       // Info color system
 | **rgba** | Convert to color | Color | int r, int g, int b, float alpha = 1 |
 | **rgba** | Convert to color | Color | Color color, float alpha = 1 | 
 
+

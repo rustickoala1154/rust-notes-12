@@ -16,3 +16,4 @@ Name | Description | Type | Default Value |
 **AutoWidth** | Auto Width | bool | false |
 **DragMove** | Can drag position | bool | true | 
 
+

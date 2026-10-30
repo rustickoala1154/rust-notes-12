@@ -48,3 +48,4 @@ Name | Use |
 
 Note the removal of fill attributes in SVG format  
 
+
